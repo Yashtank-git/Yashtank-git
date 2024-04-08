@@ -5,7 +5,8 @@ DevOps Enthusiast | Always Learning | Team Player | Techie
 Skills: ->
 
 ```bash
-echo "☁️ AWS| 🛠️ Terraform | 📃Shell Scripting | 🐍Python  \
+echo "☁️ AWS| 🛠️ Terraform | 📃Shell Scripting | 🐍Python | ![golang](https://github.com/Yashtank-git/Yashtank-git/assets/69433053/9a7c6ba5-9947-4e2f-82d7-fb646f89c5ea)
+Golang \
 🐳Docker | ⎈ K8s | 🐧Linux | ∞ CI/CD Pipelines | 🐙 Git/" >> Techskills 
 ```
 
@@ -13,7 +14,7 @@ echo "☁️ AWS| 🛠️ Terraform | 📃Shell Scripting | 🐍Python  \
 echo "TeamPlayer | Communication | Quick Learner | Adaptability | Calm" >> Softskills
 ```
 - 💻 I’m working on DevOps and AWS Projects. 
-- 🤓 I’m currently learning Python
+- 🤓 I’m currently learning Python and go
 - 🧑‍🤝‍🧑 I’m looking to collaborate on DevOps related Projects. 
 - 📫 How to reach me: tankyash180@gmail.com
 
