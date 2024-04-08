@@ -5,8 +5,7 @@ DevOps Enthusiast | Always Learning | Team Player | Techie
 Skills: ->
 
 ```bash
-echo "☁️ AWS| 🛠️ Terraform | 📃Shell Scripting | 🐍Python | ![golang](https://github.com/Yashtank-git/Yashtank-git/assets/69433053/9a7c6ba5-9947-4e2f-82d7-fb646f89c5ea)
-Golang \
+echo "☁️ AWS| 🛠️ Terraform | 📃Shell Scripting | 🐍Python | Golang \
 🐳Docker | ⎈ K8s | 🐧Linux | ∞ CI/CD Pipelines | 🐙 Git/" >> Techskills 
 ```
 
