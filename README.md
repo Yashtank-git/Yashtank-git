@@ -4,8 +4,7 @@ DevOps Enthusiast | Always Learning | Team Player | Techie | Learning in Public
 
 Skills: ->
 
-#### Tech Skills: ☁️ AWS|  🛠️ Terraform |  📃Shell Scripting |  🐍Python |  Golang | 🐳Docker |  ⎈ K8s |  🐧Linux |  ∞ CI/CD Pipelines |  🐙 Git
-
+#### Tech Skills: ☁️ AWS|  🛠️ Terraform |  📃Shell Scripting |  🐍Python | <img src= https://github.com/Yashtank-git/Yashtank-git/assets/69433053/2a52a137-2d1f-4f18-a8a0-f98e9236a38e width="20px" height="20px"  alt="Golang"> Golang | 🐳Docker |  ⎈ K8s |  🐧Linux |  ∞ CI/CD Pipelines |  🐙 Git
 #### Soft Skills: TeamPlayer | Communication | Quick Learner | Adaptability | Calm | Critical Thinking
 
 
