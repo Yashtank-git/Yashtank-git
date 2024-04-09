@@ -1,17 +1,14 @@
 ### Hi there 👋, print("Yash Here")
-#### Just another Guy Looking for DevOps/Cloud technology related roles.
-DevOps Enthusiast | Always Learning | Team Player | Techie
+#### Just another Guy Looking for DevOps/Cloud Engineering related roles.
+DevOps Enthusiast | Always Learning | Team Player | Techie | Learning in Public
 
 Skills: ->
 
-```bash
-echo "☁️ AWS| 🛠️ Terraform | 📃Shell Scripting | 🐍Python | Golang \
-🐳Docker | ⎈ K8s | 🐧Linux | ∞ CI/CD Pipelines | 🐙 Git/" >> Techskills 
-```
+#### Tech Skills: ☁️ AWS|  🛠️ Terraform |  📃Shell Scripting |  🐍Python |  Golang | 🐳Docker |  ⎈ K8s |  🐧Linux |  ∞ CI/CD Pipelines |  🐙 Git
 
-```bash
-echo "TeamPlayer | Communication | Quick Learner | Adaptability | Calm" >> Softskills
-```
+#### Soft Skills: TeamPlayer | Communication | Quick Learner | Adaptability | Calm | Critical Thinking
+
+
 - 💻 I’m working on DevOps and AWS Projects. 
 - 🤓 I’m currently learning 🐍Python and <img src=https://github.com/Yashtank-git/Yashtank-git/assets/69433053/382ad58d-5c00-4598-ba93-b1eca2e4a50e width="25px" height="25px"  alt="Golang">Golang
 - 🧑‍🤝‍🧑 I’m looking to collaborate on DevOps related Projects. 
