@@ -1,4 +1,4 @@
-### Hi there 👋, print("Yash Here")
+### Hi there 👋, fmt.Printf("Yash Here")
 #### Just another Guy Looking for DevOps/Cloud Engineering related roles.
 DevOps Enthusiast | Always Learning | Team Player | Techie | Learning in Public
 
