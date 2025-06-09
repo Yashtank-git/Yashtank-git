@@ -1,15 +1,12 @@
-### Hi there 👋, fmt.Printf("Yash Here")
-#### Just another Guy Looking for DevOps/Cloud Engineering related roles.
+### Hi there 👋, Yash Here
 DevOps Enthusiast | Always Learning | Team Player | Techie | Learning in Public
 
 Skills: ->
 
-#### Tech Skills: ☁️ AWS|  🛠️ Terraform |  📃Shell Scripting |  🐍Python | <img src= https://github.com/Yashtank-git/Yashtank-git/assets/69433053/2a52a137-2d1f-4f18-a8a0-f98e9236a38e width="20px" height="20px"  alt="Golang"> Golang | 🐳Docker |  ⎈ K8s |  🐧Linux |  ∞ CI/CD Pipelines |  🐙 Git
-#### Soft Skills: TeamPlayer | Communication | Quick Learner | Adaptability | Calm | Critical Thinking
+#### Tech Skills: ☁️ AWS|  🛠️ Terraform |  📃Shell Scripting |  🐍Python | 🐳Docker |  ⎈ K8s |  🐧Linux |  ∞ CI/CD Pipelines |  🐙 Git
 
 
-- 💻 I’m working on DevOps and AWS Projects. 
-- 🤓 I’m currently learning 🐍Python and <img src=https://github.com/Yashtank-git/Yashtank-git/assets/69433053/382ad58d-5c00-4598-ba93-b1eca2e4a50e width="25px" height="25px"  alt="Golang">Golang
+- 💻 I’m working on DevOps and Cloud Projects. 
 - 🧑‍🤝‍🧑 I’m looking to collaborate on DevOps related Projects. 
 - 📫 How to reach me: tankyash180@gmail.com
 
